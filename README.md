@@ -4,7 +4,7 @@
 This code is intended to work in the toolbox-editor section of [cds.climate.copernicus.eu](https://cds.climate.copernicus.eu). However, it seems to be possible to download the toolbox and data and work on pyhton.
 
 ## Running product
-The final product can be found [here](./final/FinalProduct.py.py)
+The final product can be found [here](./final/FinalProduct.py)
 
 ## Results
 The final product enables the user to select a time period, a scenario and a model, and to see the average fire fire risks over the selected period, for the selected scenarios and model and by region in Europe. The user can then select a particular geographical region and choose between 3 data visualisations : 
